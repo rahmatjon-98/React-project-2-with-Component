@@ -2,6 +2,7 @@ import "./card2.css";
 const Card2 = (props2) => {
   return (
     <div className="card2">
+      <span className="pnew">NEW</span>
       <img className="imgcard2" src={props2.img} alt="" />
       <p className="pcard2">{props2.name}</p>
       <div className="div">
