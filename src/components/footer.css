@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.footer {
+    display: flex;
+    padding: 100px;
+    padding-bottom: 30px;
+}
+
+.hr {
+    width: 50px;
+    margin: auto;
+}
+
+.email{
+    text-align: center;
+    padding: 30px;
+}
+
+.divf1 {
+    width: 40%;
+
+    .p1f1 {
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 154%;
+        letter-spacing: 0%;
+        text-transform: capitalize;
+    }
+
+    .p2f1 {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 154%;
+        letter-spacing: 0%;
+        text-transform: capitalize;
+        padding: 20px 0;
+        width: 75%;
+        padding-bottom: 50px;
+    }
+
+    img {
+        padding-right: 30px;
+    }
+}
+
+
+.divf2 {
+    padding-left: 40px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+    label {
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 100%;
+        letter-spacing: 0%;
+    }
+
+    input {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        padding: 20px 30px;
+        width: 60%;
+        border-radius: 10px;
+        margin: 20px 0;
+    }
+
+}
+
+.divf3 {
+    width: 20%;
+
+    h2 {
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        padding-bottom: 20px;
+    }
+
+    a {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 154%;
+        letter-spacing: 0%;
+        text-transform: capitalize;
+        color: white;
+    }
+
+    p {
+
+        padding: 2px 0;
+    }
+}

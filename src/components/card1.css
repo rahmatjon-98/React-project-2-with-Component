@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+.card1 {
+    padding: 20px;
+    background-color: #D9D9D926;
+    border: 1px solid #DEDEDE;
+    border-radius: 10px;
+}
+
+.img {
+    padding: 15px;
+}
+.arrowUpLeft{
+    width: 20px;
+    height: 20px;
+    color: white;
+    background-color: black;
+    padding: 2px;
+    border-radius: 50%;
+}
+.pName{
+    font-weight: 600;
+}
+.pSena{
+    padding: 10px 0;
+    padding-right: 20px;
+}
