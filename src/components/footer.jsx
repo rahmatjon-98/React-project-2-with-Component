@@ -25,21 +25,11 @@ const Footer = () => {
 
         <div className="divf3">
           <h2>Quick Link’s</h2>
-          <p>
-            <a href="">Home</a>
-          </p>
-          <p>
-            <a href="">Shop</a>
-          </p>
-          <p>
-            <a href="">Collection</a>
-          </p>
-          <p>
-            <a href="">Contact</a>
-          </p>
-          <p>
-            <a href="">Privacy</a>
-          </p>
+          <a href="">Home</a> <br />
+          <a href="">Shop</a> <br />
+          <a href="">Collection</a> <br />
+          <a href="">Contact</a> <br />
+          <a href="">Privacy</a> <br />
         </div>
       </div>
       <hr className="hr" />

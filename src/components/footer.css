@@ -18,7 +18,7 @@ footer {
     margin: auto;
 }
 
-.email{
+.email {
     text-align: center;
     padding: 30px;
 }
@@ -90,16 +90,10 @@ footer {
     }
 
     a {
-        font-weight: 400;
         font-size: 14px;
-        line-height: 154%;
-        letter-spacing: 0%;
+        line-height: 30px;
         text-transform: capitalize;
         color: white;
     }
 
-    p {
-
-        padding: 2px 0;
-    }
 }
